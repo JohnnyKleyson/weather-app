@@ -1,14 +1,14 @@
 # Como Está O Clima?
 Aplicação que aprensta o clima com base na sua geocalização consumindo informações de um API REST. 
 
-![screnshot3gif](https://user-images.githubusercontent.com/72710750/97951523-360cf800-1d79-11eb-94f8-77979c039576.gif)
+![weather](https://user-images.githubusercontent.com/72710750/99033842-901c7300-255a-11eb-8b11-2144787146c5.png)
 
-[https://johnnykleyson.github.io/churrascometro/]
+[https://johnnykleyson.github.io/wheater-app/]
 
 ### **RESUMO:**
 
-O churrascômetro foi criado com a função de agilizar o processo de praparamento de um churrasco,
-já calculando as bebidas e carnes para todos os participantes.
+Esta aplicação foi criada para treinar conhecimentos em API REST e como aplicar ela em algo funcional. A API utilizada foi a https://www.weatherapi.com/,
+utilzei ela para desmontrar na tela a localização (usando geolocalização), temperatura, sensação climatica, cidade e região.
 
 
 ### **FERRAMENTAS UTILIZADAS:**
@@ -18,5 +18,7 @@ já calculando as bebidas e carnes para todos os participantes.
 
 - JAVASCRIPT
 
--API REST
+- API REST 
+
+- GEOLOCALIZAÇÃO
 
