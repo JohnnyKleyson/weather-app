@@ -1,5 +1,6 @@
-# Como Está O Clima?
-Aplicação que apresenta o clima com base na sua localização consumindo informações de um API. 
+<h1 align="center"> Como Está O Clima?</h1>
+
+<p align="center">Aplicação que apresenta o clima com base na sua localização consumindo informações de um API.</p>
 
 ![weather](https://user-images.githubusercontent.com/72710750/99033842-901c7300-255a-11eb-8b11-2144787146c5.png)
 
@@ -13,6 +14,7 @@ temperatura, sensação climatica, cidade e região. Esta aplicação tambem me 
 
 
 ### **FERRAMENTAS UTILIZADAS:**
+
 - HTML
 
 - CSS
