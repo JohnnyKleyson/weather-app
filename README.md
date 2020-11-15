@@ -4,7 +4,7 @@
 
 ![weather](https://user-images.githubusercontent.com/72710750/99033842-901c7300-255a-11eb-8b11-2144787146c5.png)
 
-[https://johnnykleyson.github.io/wheater-app/]
+[https://johnnykleyson.github.io/weather-app/]
 
 ### **RESUMO:**
 
