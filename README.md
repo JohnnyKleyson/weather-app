@@ -10,7 +10,7 @@
 
 Esta aplicação foi criada para treinar conhecimentos em API REST, Javascript e como aplicar ela em algo funcional.
 A API utilizada foi a https://www.weatherapi.com/, utilzei ela para demonstrar na tela a localização (usando geolocalização), 
-temperatura, sensação climatica, cidade e região. Esta aplicação tambem me ajudou a compreender a documentação de uma API.
+temperatura, sensação térmica, cidade e região. Esta aplicação tambem me ajudou a compreender a documentação de uma API.
 
 
 ### **FERRAMENTAS UTILIZADAS:**
